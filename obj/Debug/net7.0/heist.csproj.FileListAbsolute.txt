@@ -1,0 +1,15 @@
+C:\Users\adean\workspace\csharp\heist\bin\Debug\net7.0\heist.exe
+C:\Users\adean\workspace\csharp\heist\bin\Debug\net7.0\heist.deps.json
+C:\Users\adean\workspace\csharp\heist\bin\Debug\net7.0\heist.runtimeconfig.json
+C:\Users\adean\workspace\csharp\heist\bin\Debug\net7.0\heist.dll
+C:\Users\adean\workspace\csharp\heist\bin\Debug\net7.0\heist.pdb
+C:\Users\adean\workspace\csharp\heist\obj\Debug\net7.0\heist.csproj.AssemblyReference.cache
+C:\Users\adean\workspace\csharp\heist\obj\Debug\net7.0\heist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adean\workspace\csharp\heist\obj\Debug\net7.0\heist.AssemblyInfoInputs.cache
+C:\Users\adean\workspace\csharp\heist\obj\Debug\net7.0\heist.AssemblyInfo.cs
+C:\Users\adean\workspace\csharp\heist\obj\Debug\net7.0\heist.csproj.CoreCompileInputs.cache
+C:\Users\adean\workspace\csharp\heist\obj\Debug\net7.0\heist.dll
+C:\Users\adean\workspace\csharp\heist\obj\Debug\net7.0\refint\heist.dll
+C:\Users\adean\workspace\csharp\heist\obj\Debug\net7.0\heist.pdb
+C:\Users\adean\workspace\csharp\heist\obj\Debug\net7.0\heist.genruntimeconfig.cache
+C:\Users\adean\workspace\csharp\heist\obj\Debug\net7.0\ref\heist.dll
